@@ -1,4 +1,4 @@
-package hellofx;
+package SuperLab;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
