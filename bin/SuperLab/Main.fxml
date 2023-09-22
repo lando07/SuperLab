@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SuperLab.Controller">
+   <children>
+      <Button layoutX="510.0" layoutY="187.0" mnemonicParsing="false" onAction="#right" text="Right" />
+      <Button layoutX="270.0" layoutY="347.0" mnemonicParsing="false" onAction="#down" text="Down" />
+      <Button layoutX="24.0" layoutY="187.0" mnemonicParsing="false" onAction="#left" text="Left" />
+      <Button layoutX="270.0" layoutY="24.0" mnemonicParsing="false" onAction="#up" text="Up" />
+   </children>
+</AnchorPane>
