@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "SuperLabCLI.Main",
+            "projectName": "SuperLab_b983d582"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "SuperLab.Main",
             "projectName": "SuperLab_2fe1ef35"
         },

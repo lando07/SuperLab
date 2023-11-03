@@ -1,0 +1,6 @@
+[submodule "src/labs/9th-grade/CS"]
+	path = src/labs/9th-grade/CS
+	url = https://github.com/lando07/CS.git
+[submodule "src/labs/10th-grade/AP-CS-A"]
+	path = src/labs/10th-grade/AP-CS-A
+	url = https://github.com/lando07/AP-CS-A.git
